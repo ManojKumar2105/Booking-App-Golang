@@ -1,0 +1,26 @@
+
+// bookings = append(bookings, firstName+" "+lastName)
+
+// Index is a mandatory one but it's not used in the logic so giving error and to ignore it,we can give the underscore for the variable which has'nt been used
+
+// for index,booking := range bookings{
+// 	var names = strings.Fields(booking)
+// 	firstNames = append(firstNames, names[0])
+// }
+
+// fmt.Printf(" Whole Array : %s\n", bookings)
+// fmt.Printf(" Array Type : %T\n", bookings)
+// fmt.Printf(" First Value : %s\n", bookings[0])
+// fmt.Printf(" Length of array : %v\n", len(bookings))
+
+// var bookings [50]string
+// var bookings []string
+// fmt.Printf("User %s is a man and the type of data is %T \n", userName, userName)
+
+// var userData = make(map[string]string)
+// userData["firstName"] = firstName
+// userData["lastName"] = lastName
+// userData["email"] = email
+// userData["noOfTickets"] = strconv.FormatUint(uint64(ticketsNeeded), 10)
+
+// bookings = append(bookings, firstName+" "+lastName)
